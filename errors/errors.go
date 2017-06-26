@@ -1,3 +1,7 @@
+// 已学习
+// 2017-06-26
+// 这个应该是最简单的一个GO标准包了。
+
 // Copyright 2011 The Go Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
